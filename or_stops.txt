@@ -1,0 +1,700 @@
+Оренбург, 1-й квартал, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/1-y_kvartal/ 
+Оренбург, 1-я горбольница, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/1-ya_gorbolnica/ 
+Оренбург, 13-й микрорайон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/13-y_mikrorayon/ 
+Оренбург, 14-й микрорайон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/14-y_mikrorayon/ 
+Оренбург, 18-й микрорайон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/18-y_mikrorayon/ 
+Оренбург, 18-й разъезд, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/18-y_razezd/ 
+Оренбург, 19-й микрорайон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/19-y_mikrorayon/ 
+Оренбург, 3-е кольцо, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/3-e_kolco/ 
+Оренбург, 34-я линия, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/34-ya_liniya/ 
+Оренбург, 4-я городская больница, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/4-ya_gorodskaya_bolnica/ 
+Оренбург, 47-й квартал, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/47-y_kvartal/ 
+Оренбург, 20-й микрорайон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/20-y_mikrorayon/ 
+Оренбург, 23-й микрорайон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/23-y_mikrorayon/ 
+Оренбург, 24-й микрорайон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/24-y_mikrorayon/ 
+Оренбург, Авиагородок, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/aviagorodok/ 
+Оренбург, Авиагородок-2, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/aviagorodok-2/ 
+Оренбург, Автобусный парк, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtobusnyy_park/ 
+Оренбург, Автовокзал, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtovokzal/ 
+Оренбург, Автоколонна 1173, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtokolonna_1173/ 
+Оренбург, Автоколонна 1825, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtokolonna_1825/ 
+Оренбург, Автосалон Автомир, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtosalon_avtomir/ 
+Оренбург, Автостанция, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtostanciya/ 
+Оренбург, Автостанция Краснохолм, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtostanciya_krasnoholm/ 
+Оренбург, Автотехникум, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtotehnikum/ 
+Оренбург, Аграрный университет, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/agrarnyy_universitet/ 
+Оренбург, АЗС, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/azs/ 
+Оренбург, Алтайская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/altayskaya_ulica/ 
+Оренбург, Амурская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/amurskaya_ulica/ 
+Оренбург, Аптека, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/apteka/ 
+Оренбург, Армада, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/armada/ 
+Оренбург, Астраханская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/astrahanskaya_ulica/ 
+Оренбург, Ателье, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/atele/ 
+Оренбург, АТК, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/atk/ 
+Оренбург, АТП, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/atp/ 
+Оренбург, База ОПС, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/baza_ops/ 
+Оренбург, Банк Русь, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/bank_rus/ 
+Оренбург, БВЛ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/bvl/ 
+Оренбург, Бердянка, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/berdyanka/ 
+Оренбург, Берёзка, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/berezka/ 
+Оренбург, Больница, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/bolnica/ 
+Оренбург, Братство, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/bratstvo/ 
+Оренбург, Брестская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/brestskaya_ulica/ 
+Оренбург, Вишнёвая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/vishnevaya_ulica/ 
+Оренбург, Возрождение, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/vozrozhdenie/ 
+Оренбург, Волгоградская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/volgogradskaya_ulica/ 
+Оренбург, Воскресенская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/voskresenskaya_ulica/ 
+Оренбург, Восточная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/vostochnaya_ulica/ 
+Оренбург, Всесоюзная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/vsesoyuznaya_ulica/ 
+Оренбург, Гагарина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gagarina/ 
+Оренбург, Газораздаточная, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gazorazdatochnaya/ 
+Оренбург, Газпромнефтедобыча, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gazpromneftedobycha/ 
+Оренбург, Гаращенко, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/garaschenko/ 
+Оренбург, Геология, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/geologiya/ 
+Оренбург, ГИБДД, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gibdd/ 
+Оренбург, Гидропрес, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gidropres/ 
+Оренбург, Гидропресс, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gidropress/ 
+Оренбург, Главпочтамт, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/glavpochtamt/ 
+Оренбург, Гора Сулак, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gora_sulak/ 
+Оренбург, Горбольница № 1, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gorbolnica_1/ 
+Оренбург, Городище, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gorodische/ 
+Оренбург, Госпиталь, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gospital/ 
+Оренбург, Гостиница Дон Кихот, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gostinica_don_kihot/ 
+Оренбург, Гостиница Факел, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gostinica_fakel/ 
+Оренбург, ГПТУ-41, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gptu-41/ 
+Оренбург, Гребенская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/grebenskaya_ulica/ 
+Оренбург, Дачи, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dachi/ 
+Оренбург, Дачная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dachnaya_ulica/ 
+Оренбург, Дедуровка, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dedurovka/ 
+Оренбург, Детсад, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/detsad/ 
+Оренбург, Детская аптека, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/detskaya_apteka/ 
+Оренбург, Детский Сад, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/detskiy_sad/ 
+Оренбург, Детский сад, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/detskiy_sad/ 
+Оренбург, ДК Газовик, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dk_gazovik/ 
+Оренбург, ДК ТРЗ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dk_trz/ 
+Оренбург, Дмитриевская церковь, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dmitrievskaya_cerkov/ 
+Оренбург, Дом одежды, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dom_odezhdy/ 
+Оренбург, Дом одежды-2, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dom_odezhdy-2/ 
+Оренбург, Дом памяти, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dom_pamyati/ 
+Оренбург, Дом Советов, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dom_sovetov/ 
+Оренбург, Драмтеатр, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dramteatr/ 
+Оренбург, Железнодорожная больница, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zheleznodorozhnaya_bolnica/ 
+Оренбург, Железнодорожный вокзал, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zheleznodorozhnyy_vokzal/ 
+Оренбург, Жилой комплекс Дубки, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zhiloy_kompleks_dubki/ 
+Оренбург, Завод ЖБИ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zavod_zhbi/ 
+Оренбург, Завод Инвертор, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zavod_invertor/ 
+Оренбург, Завод Металлист, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zavod_metallist/ 
+Оренбург, Завод РТИ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zavod_rti/ 
+Оренбург, Заводская, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zavodskaya/ 
+Оренбург, ЗХО, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zho/ 
+Оренбург, ИК-4, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ik-4/ 
+Оренбург, Илекская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ilekskaya_ulica/ 
+Оренбург, Институт, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/institut/ 
+Оренбург, Кадетский корпус, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kadetskiy_korpus/ 
+Оренбург, Казачья улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kazachya_ulica/ 
+Оренбург, Калининградская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kaliningradskaya_ulica/ 
+Оренбург, Калужская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kaluzhskaya_ulica/ 
+Оренбург, Каравай, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/karavay/ 
+Оренбург, Караван сарай, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/karavan_saray/ 
+Оренбург, Карагандинская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/karagandinskaya_ulica/ 
+Оренбург, Карачи, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/karachi/ 
+Оренбург, КДП, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kdp/ 
+Оренбург, Кинотеатр Космос, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kinoteatr_kosmos/ 
+Оренбург, Кинотеатр Сокол, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kinoteatr_sokol/ 
+Оренбург, Кирпичный завод, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kirpichnyy_zavod/ 
+Оренбург, Кирпичный завод №1, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kirpichnyy_zavod_1/ 
+Оренбург, Кладбищенский комплекс, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kladbischenskiy_kompleks/ 
+Оренбург, Клиффорд, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/klifford/ 
+Оренбург, Кожобъединение Урал, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kozhobedinenie_ural/ 
+Оренбург, Кольцевая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kolcevaya_ulica/ 
+Оренбург, Комсомольская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/komsomolskaya_ulica/ 
+Оренбург, Красный Маяк, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/krasnyy_mayak/ 
+Оренбург, Кубанская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kubanskaya_ulica/ 
+Оренбург, Кузнечная, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kuznechnaya/ 
+Оренбург, Культурная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kulturnaya_ulica/ 
+Оренбург, Курганская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kurganskaya_ulica/ 
+Оренбург, Кушкуль-2, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kushkul-2/ 
+Оренбург, Ласточкино гнездо, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/lastochkino_gnezdo/ 
+Оренбург, Ленинградская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/leningradskaya_ulica/ 
+Оренбург, Лесничество, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/lesnichestvo/ 
+Оренбург, Ликос, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/likos/ 
+Оренбург, Липовая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/lipovaya_ulica/ 
+Оренбург, Литейная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/liteynaya_ulica/ 
+Оренбург, Лицей № 4, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/licey_4/ 
+Оренбург, Локомотивное депо, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/lokomotivnoe_depo/ 
+Оренбург, Луговая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/lugovaya_ulica/ 
+Оренбург, Луначарского, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/lunacharskogo/ 
+Оренбург, Львовская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/lvovskaya_ulica/ 
+Оренбург, Магазин, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin/ 
+Оренбург, Магазин Визит, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_vizit/ 
+Оренбург, Магазин Золотая осень, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_zolotaya_osen/ 
+Оренбург, Магазин Комета, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_kometa/ 
+Оренбург, Магазин Орбита, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_orbita/ 
+Оренбург, Магазин Русь, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_rus/ 
+Оренбург, Магазин Сакмара, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_sakmara/ 
+Оренбург, Магазин Салют, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_salyut/ 
+Оренбург, Магазин Соседдушка, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_soseddushka/ 
+Оренбург, Магазин Спутник, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_sputnik/ 
+Оренбург, Магазин Старт, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_start/ 
+Оренбург, Магазин Уют, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_uyut/ 
+Оренбург, Магнит, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magnit/ 
+Оренбург, Макаровой-Мутновой, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/makarovoy-mutnovoy/ 
+Оренбург, Маяк, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mayak/ 
+Оренбург, Мебельная фабрика, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mebelnaya_fabrika/ 
+Оренбург, Меновой Двор, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/menovoy_dvor/ 
+Оренбург, Мехзавод, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mehzavod/ 
+Оренбург, Мехколонна, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mehkolonna/ 
+Оренбург, МЖК, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mzhk/ 
+Оренбург, Микрорайон Победа, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mikrorayon_pobeda/ 
+Оренбург, Микрорайон Солнечный, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mikrorayon_solnechnyy/ 
+Оренбург, Микрорайонная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mikrorayonnaya_ulica/ 
+Оренбург, Микрохирургия глаза, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mikrohirurgiya_glaza/ 
+Оренбург, Миланская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/milanskaya_ulica/ 
+Оренбург, Мир кровли, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mir_krovli/ 
+Оренбург, Молодёжная, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/molodezhnaya/ 
+Оренбург, Мототехника, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mototehnika/ 
+Оренбург, Музыкальная школа, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/muzykalnaya_shkola/ 
+Оренбург, Нагорная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/nagornaya_ulica/ 
+Оренбург, Национальная деревня, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/nacionalnaya_derevnya/ 
+Оренбург, Невельская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/nevelskaya_ulica/ 
+Оренбург, Нефтемаслозавод ОНМЗ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/neftemaslozavod_onmz/ 
+Оренбург, Нижнесакмарский, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/nizhnesakmarskiy/ 
+Оренбург, Нижняя Павловка, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/nizhnyaya_pavlovka/ 
+Оренбург, Никольское, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/nikolskoe/ 
+Оренбург, Новая, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/novaya/ 
+Оренбург, Новая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/novaya_ulica/ 
+Оренбург, Ноябрьская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/noyabrskaya_ulica/ 
+Оренбург, Областная больница, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/oblastnaya_bolnica/ 
+Оренбург, Общежитие, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/obschezhitie/ 
+Оренбург, ОГПС, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ogps/ 
+Оренбург, Одесская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/odesskaya_ulica/ 
+Оренбург, Октябрьская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/oktyabrskaya_ulica/ 
+Оренбург, Оренбургоптторг, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/orenburgopttorg/ 
+Оренбург, Оренбургский государственный университет, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/orenburgskiy_gosudarstvennyy_universitet/ 
+Оренбург, Оренбургского Казачества, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/orenburgskogo_kazachestva/ 
+Оренбург, Орская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/orskaya_ulica/ 
+Оренбург, ОУБР, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/oubr/ 
+Оренбург, Парк имени 50-летия СССР, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/park_imeni_50-letiya_sssr/ 
+Оренбург, Парк имени Гуськова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/park_imeni_guskova/ 
+Оренбург, Парк имени Перовского, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/park_imeni_perovskogo/ 
+Оренбург, Парк Тополя, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/park_topolya/ 
+Оренбург, Парковская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/parkovskaya_ulica/ 
+Оренбург, Переезд, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/pereezd/ 
+Оренбург, Площадь Мира, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ploschad_mira/ 
+Оренбург, ПО Стрела, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/po_strela/ 
+Оренбург, По требованию, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/po_trebovaniyu/ 
+Оренбург, Поворот, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/povorot/ 
+Оренбург, Поворот 2, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/povorot_2/ 
+Оренбург, Поворот на Городище, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/povorot_na_gorodische/ 
+Оренбург, Поворот на Краснохолм, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/povorot_na_krasnoholm/ 
+Оренбург, Полигонная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poligonnaya_ulica/ 
+Оренбург, Поликлиника, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poliklinika/ 
+Оренбург, Полтавская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poltavskaya_ulica/ 
+Оренбург, Посёлок Бёрды, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_berdy/ 
+Оренбург, Посёлок Весенний, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_vesenniy/ 
+Оренбург, Посёлок Карачи, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_karachi/ 
+Оренбург, Посёлок Куйбышева, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_kuybysheva/ 
+Оренбург, Посёлок Кушкуль-1, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_kushkul-1/ 
+Оренбург, Посёлок Кушкуль-3, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_kushkul-3/ 
+Оренбург, Посёлок Подмаячный, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_podmayachnyy/ 
+Оренбург, Посёлок Ростоши, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_rostoshi/ 
+Оренбург, Посёлок Солнечный, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_solnechnyy/ 
+Оренбург, Посёлок Старые Ростоши, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_starye_rostoshi/ 
+Оренбург, Пост ГАИ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/post_gai/ 
+Оренбург, Почта, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/pochta/ 
+Оренбург, Почтовая, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/pochtovaya/ 
+Оренбург, Пристанционный, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/pristancionnyy/ 
+Оренбург, Проезд Автоматики, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/proezd_avtomatiki/ 
+Оренбург, Проезд Знаменский, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/proezd_znamenskiy/ 
+Оренбург, Пролетарская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/proletarskaya_ulica/ 
+Оренбург, Проспект Гагарина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/prospekt_gagarina/ 
+Оренбург, Проспект Дзержинского, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/prospekt_dzerzhinskogo/ 
+Оренбург, Профилакторий Озон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/profilaktoriy_ozon/ 
+Оренбург, Пруды, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/prudy/ 
+Оренбург, ПТУ № 37, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ptu_37/ 
+Оренбург, Пугачи, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/pugachi/ 
+Оренбург, Пугачи-3, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/pugachi-3/ 
+Оренбург, Пушкинская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/pushkinskaya_ulica/ 
+Оренбург, Рабочий переезд, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/rabochiy_pereezd/ 
+Оренбург, Радуга, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/raduga/ 
+Оренбург, Раздольная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/razdolnaya_ulica/ 
+Оренбург, Река Сакмара, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/reka_sakmara/ 
+Оренбург, Римская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/rimskaya_ulica/ 
+Оренбург, Рыбаковская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/rybakovskaya_ulica/ 
+Оренбург, Рынок, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/rynok/ 
+Оренбург, Рынок Локомотив, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/rynok_lokomotiv/ 
+Оренбург, Рынок Петровский, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/rynok_petrovskiy/ 
+Оренбург, Рынок Южный, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/rynok_yuzhnyy/ 
+Оренбург, Сад Фрунзе, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sad_frunze/ 
+Оренбург, Садовая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sadovaya_ulica/ 
+Оренбург, Сады-1, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sady-1/ 
+Оренбург, Сады-2, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sady-2/ 
+Оренбург, Самолётная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/samoletnaya_ulica/ 
+Оренбург, Самородово, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/samorodovo/ 
+Оренбург, Северная, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/severnaya/ 
+Оренбург, Северная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/severnaya_ulica/ 
+Оренбург, Северный проезд, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/severnyy_proezd/ 
+Оренбург, Село имени 9 Января, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/selo_imeni_9_yanvarya/ 
+Оренбург, Славянский базар, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/slavyanskiy_bazar/ 
+Оренбург, СМП, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/smp/ 
+Оренбург, СНТ Южный Урал, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/snt_yuzhnyy_ural/ 
+Оренбург, Советская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sovetskaya_ulica/ 
+Оренбург, Совхоз Дружба, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sovhoz_druzhba/ 
+Оренбург, Совхозная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sovhoznaya_ulica/ 
+Оренбург, Спартаковская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/spartakovskaya_ulica/ 
+Оренбург, Спорткомплекс, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sportkompleks/ 
+Оренбург, Станкозавод, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/stankozavod/ 
+Оренбург, Старое кольцо, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/staroe_kolco/ 
+Оренбург, Степной переулок, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/stepnoy_pereulok/ 
+Оренбург, Стройгородок, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/stroygorodok/ 
+Оренбург, Студенческая, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/studencheskaya/ 
+Оренбург, Таксопарк, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/taksopark/ 
+Оренбург, ТД Барди, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/td_bardi/ 
+Оренбург, ТД Евростиль, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/td_evrostil/ 
+Оренбург, Театр музкомедии, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/teatr_muzkomedii/ 
+Оренбург, Театр музыкальной комедии, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/teatr_muzykalnoy_komedii/ 
+Оренбург, Театр Пьеро, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/teatr_pero/ 
+Оренбург, Театральная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/teatralnaya_ulica/ 
+Оренбург, Телецентр, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/telecentr/ 
+Оренбург, Тепличная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/teplichnaya_ulica/ 
+Оренбург, Теплосеть, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/teploset/ 
+Оренбург, Тихая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tihaya_ulica/ 
+Оренбург, ТК КИТ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tk_kit/ 
+Оренбург, ТК Максимум, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tk_maksimum/ 
+Оренбург, ТК Медовый, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tk_medovyy/ 
+Оренбург, ТК Оренбург, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tk_orenburg/ 
+Оренбург, ТК Форштадт, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tk_forshtadt/ 
+Оренбург, Торговая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/torgovaya_ulica/ 
+Оренбург, Торговый центр Метро, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/torgovyy_centr_metro/ 
+Оренбург, Трансгаз, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/transgaz/ 
+Оренбург, Трест, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/trest/ 
+Оренбург, ТРЗ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/trz/ 
+Оренбург, Троицкий, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/troickiy/ 
+Оренбург, Троллейбусное депо № 2, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/trolleybusnoe_depo_2/ 
+Оренбург, ТРЦ Север, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/trc_sever/ 
+Оренбург, ТС Центр, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ts_centr/ 
+Оренбург, ТСЖ Звёздный, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tszh_zvezdnyy/ 
+Оренбург, Тубдиспансер, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tubdispanser/ 
+Оренбург, Туркестанская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/turkestanskaya_ulica/ 
+Оренбург, ТЦ Армада, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tc_armada/ 
+Оренбург, ТЦ Дружба, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tc_druzhba/ 
+Оренбург, ТЦ Леруа Мерлен, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tc_lerua_merlen/ 
+Оренбург, ТЭЦ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tec/ 
+Оренбург, Украинская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ukrainskaya_ulica/ 
+Оренбург, Улица 60-летия Октября, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_60-letiya_oktyabrya/ 
+Оренбург, Улица 8 Марта, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_8_marta/ 
+Оренбург, Улица 8-го Марта, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_8-go_marta/ 
+Оренбург, Улица Берёзовая Ростошь, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_berezovaya_rostosh/ 
+Оренбург, Улица Богдана Хмельницкого - Центральный рынок, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_bogdana_hmelnickogo_-_centralnyy_rynok/ 
+Оренбург, Улица Братьев Башиловых, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_bratev_bashilovyh/ 
+Оренбург, Улица Бурзянцева, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_burzyanceva/ 
+Оренбург, Улица Бурчак-Абрамовича, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_burchak-abramovicha/ 
+Оренбург, Улица Володарского, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_volodarskogo/ 
+Оренбург, Улица Гаранькина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_garankina/ 
+Оренбург, Улица Джангильдина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_dzhangildina/ 
+Оренбург, Улица Дружбы, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_druzhby/ 
+Оренбург, Улица Желябова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_zhelyabova/ 
+Оренбург, Улица Калинина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_kalinina/ 
+Оренбург, Улица Караваева Роща, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_karavaeva_roscha/ 
+Оренбург, Улица Кирова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_kirova/ 
+Оренбург, Улица Кичигина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_kichigina/ 
+Оренбург, Улица Коминтерна, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_kominterna/ 
+Оренбург, Улица Лермонтова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_lermontova/ 
+Оренбург, Улица Лукиана Попова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_lukiana_popova/ 
+Оренбург, Улица Макаровой-Мутновой, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_makarovoy-mutnovoy/ 
+Оренбург, Улица Максима Горького, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_maksima_gorkogo/ 
+Оренбург, Улица Маршала Жукова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_marshala_zhukova/ 
+Оренбург, Улица Мира, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_mira/ 
+Оренбург, Улица Михаила Фадеева, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_mihaila_fadeeva/ 
+Оренбург, Улица Мичурина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_michurina/ 
+Оренбург, Улица Монтажников, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_montazhnikov/ 
+Оренбург, Улица Мусы Джалиля, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_musy_dzhalilya/ 
+Оренбург, Улица Нахимова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_nahimova/ 
+Оренбург, Улица Нефтяников, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_neftyanikov/ 
+Оренбург, Улица Ногина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_nogina/ 
+Оренбург, Улица Попова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_popova/ 
+Оренбург, Улица Постникова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_postnikova/ 
+Оренбург, Улица Родимцева, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_rodimceva/ 
+Оренбург, Улица Розенберга, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_rozenberga/ 
+Оренбург, Улица Розы Люксембург, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_rozy_lyuksemburg/ 
+Оренбург, Улица Сергея Лазо, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_sergeya_lazo/ 
+Оренбург, Улица Славы, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_slavy/ 
+Оренбург, Улица Степана Разина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_stepana_razina/ 
+Оренбург, Улица Сухарева, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_suhareva/ 
+Оренбург, Улица Терешковой, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_tereshkovoy/ 
+Оренбург, Улица Ткачёва, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_tkacheva/ 
+Оренбург, Улица Ткачева, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_tkacheva/ 
+Оренбург, Улица Ульянова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_ulyanova/ 
+Оренбург, Улица Фадеева, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_fadeeva/ 
+Оренбург, Улица Фрунзе, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_frunze/ 
+Оренбург, Улица Челюскинцев, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_chelyuskincev/ 
+Оренбург, Улица Шевченко, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_shevchenko/ 
+Оренбург, Улица Щетинина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_schetinina/ 
+Оренбург, Улица Юных Ленинцев, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_yunyh_lenincev/ 
+Оренбург, Улица Юркина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_yurkina/ 
+Оренбург, Учебный комбинат, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/uchebnyy_kombinat/ 
+Оренбург, Учкомбинат, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/uchkombinat/ 
+Оренбург, Фабрика пуховых платков, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/fabrika_puhovyh_platkov/ 
+Оренбург, Факел, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/fakel/ 
+Оренбург, Хабаровская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/habarovskaya_ulica/ 
+Оренбург, Харьковская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/harkovskaya_ulica/ 
+Оренбург, Хлебная, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/hlebnaya/ 
+Оренбург, Хлебный городок, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/hlebnyy_gorodok/ 
+Оренбург, Центральный рынок, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/centralnyy_rynok/ 
+Оренбург, ЦРБ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/crb/ 
+Оренбург, Часовня, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/chasovnya/ 
+Оренбург, Чистопольская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/chistopolskaya_ulica/ 
+Оренбург, Школа, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/shkola/ 
+Оренбург, Школьная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/shkolnaya_ulica/ 
+Оренбург, Южный Урал, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/yuzhnyy_ural/ 
+Оренбург, Ялтинская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/yaltinskaya_ulica/ 
+Оренбург, 1-й квартал, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/1-y_kvartal/ 
+Оренбург, 1-я горбольница, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/1-ya_gorbolnica/ 
+Оренбург, 13-й микрорайон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/13-y_mikrorayon/ 
+Оренбург, 14-й микрорайон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/14-y_mikrorayon/ 
+Оренбург, 18-й микрорайон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/18-y_mikrorayon/ 
+Оренбург, 18-й разъезд, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/18-y_razezd/ 
+Оренбург, 19-й микрорайон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/19-y_mikrorayon/ 
+Оренбург, 3-е кольцо, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/3-e_kolco/ 
+Оренбург, 34-я линия, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/34-ya_liniya/ 
+Оренбург, 4-я городская больница, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/4-ya_gorodskaya_bolnica/ 
+Оренбург, 47-й квартал, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/47-y_kvartal/ 
+Оренбург, 20-й микрорайон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/20-y_mikrorayon/ 
+Оренбург, 23-й микрорайон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/23-y_mikrorayon/ 
+Оренбург, 24-й микрорайон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/24-y_mikrorayon/ 
+Оренбург, Авиагородок, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/aviagorodok/ 
+Оренбург, Авиагородок-2, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/aviagorodok-2/ 
+Оренбург, Автобусный парк, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtobusnyy_park/ 
+Оренбург, Автовокзал, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtovokzal/ 
+Оренбург, Автоколонна 1173, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtokolonna_1173/ 
+Оренбург, Автоколонна 1825, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtokolonna_1825/ 
+Оренбург, Автосалон Автомир, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtosalon_avtomir/ 
+Оренбург, Автостанция, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtostanciya/ 
+Оренбург, Автостанция Краснохолм, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtostanciya_krasnoholm/ 
+Оренбург, Автотехникум, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/avtotehnikum/ 
+Оренбург, Аграрный университет, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/agrarnyy_universitet/ 
+Оренбург, АЗС, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/azs/ 
+Оренбург, Алтайская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/altayskaya_ulica/ 
+Оренбург, Амурская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/amurskaya_ulica/ 
+Оренбург, Аптека, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/apteka/ 
+Оренбург, Армада, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/armada/ 
+Оренбург, Астраханская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/astrahanskaya_ulica/ 
+Оренбург, Ателье, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/atele/ 
+Оренбург, АТК, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/atk/ 
+Оренбург, АТП, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/atp/ 
+Оренбург, База ОПС, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/baza_ops/ 
+Оренбург, Банк Русь, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/bank_rus/ 
+Оренбург, БВЛ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/bvl/ 
+Оренбург, Бердянка, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/berdyanka/ 
+Оренбург, Берёзка, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/berezka/ 
+Оренбург, Больница, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/bolnica/ 
+Оренбург, Братство, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/bratstvo/ 
+Оренбург, Брестская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/brestskaya_ulica/ 
+Оренбург, Вишнёвая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/vishnevaya_ulica/ 
+Оренбург, Возрождение, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/vozrozhdenie/ 
+Оренбург, Волгоградская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/volgogradskaya_ulica/ 
+Оренбург, Воскресенская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/voskresenskaya_ulica/ 
+Оренбург, Восточная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/vostochnaya_ulica/ 
+Оренбург, Всесоюзная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/vsesoyuznaya_ulica/ 
+Оренбург, Гагарина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gagarina/ 
+Оренбург, Газораздаточная, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gazorazdatochnaya/ 
+Оренбург, Газпромнефтедобыча, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gazpromneftedobycha/ 
+Оренбург, Гаращенко, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/garaschenko/ 
+Оренбург, Геология, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/geologiya/ 
+Оренбург, ГИБДД, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gibdd/ 
+Оренбург, Гидропрес, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gidropres/ 
+Оренбург, Гидропресс, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gidropress/ 
+Оренбург, Главпочтамт, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/glavpochtamt/ 
+Оренбург, Гора Сулак, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gora_sulak/ 
+Оренбург, Горбольница № 1, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gorbolnica_1/ 
+Оренбург, Городище, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gorodische/ 
+Оренбург, Госпиталь, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gospital/ 
+Оренбург, Гостиница Дон Кихот, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gostinica_don_kihot/ 
+Оренбург, Гостиница Факел, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gostinica_fakel/ 
+Оренбург, ГПТУ-41, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/gptu-41/ 
+Оренбург, Гребенская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/grebenskaya_ulica/ 
+Оренбург, Дачи, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dachi/ 
+Оренбург, Дачная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dachnaya_ulica/ 
+Оренбург, Дедуровка, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dedurovka/ 
+Оренбург, Детсад, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/detsad/ 
+Оренбург, Детская аптека, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/detskaya_apteka/ 
+Оренбург, Детский Сад, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/detskiy_sad/ 
+Оренбург, Детский сад, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/detskiy_sad/ 
+Оренбург, ДК Газовик, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dk_gazovik/ 
+Оренбург, ДК ТРЗ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dk_trz/ 
+Оренбург, Дмитриевская церковь, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dmitrievskaya_cerkov/ 
+Оренбург, Дом одежды, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dom_odezhdy/ 
+Оренбург, Дом одежды-2, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dom_odezhdy-2/ 
+Оренбург, Дом памяти, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dom_pamyati/ 
+Оренбург, Дом Советов, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dom_sovetov/ 
+Оренбург, Драмтеатр, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/dramteatr/ 
+Оренбург, Железнодорожная больница, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zheleznodorozhnaya_bolnica/ 
+Оренбург, Железнодорожный вокзал, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zheleznodorozhnyy_vokzal/ 
+Оренбург, Жилой комплекс Дубки, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zhiloy_kompleks_dubki/ 
+Оренбург, Завод ЖБИ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zavod_zhbi/ 
+Оренбург, Завод Инвертор, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zavod_invertor/ 
+Оренбург, Завод Металлист, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zavod_metallist/ 
+Оренбург, Завод РТИ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zavod_rti/ 
+Оренбург, Заводская, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zavodskaya/ 
+Оренбург, ЗХО, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/zho/ 
+Оренбург, ИК-4, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ik-4/ 
+Оренбург, Илекская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ilekskaya_ulica/ 
+Оренбург, Институт, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/institut/ 
+Оренбург, Кадетский корпус, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kadetskiy_korpus/ 
+Оренбург, Казачья улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kazachya_ulica/ 
+Оренбург, Калининградская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kaliningradskaya_ulica/ 
+Оренбург, Калужская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kaluzhskaya_ulica/ 
+Оренбург, Каравай, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/karavay/ 
+Оренбург, Караван сарай, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/karavan_saray/ 
+Оренбург, Карагандинская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/karagandinskaya_ulica/ 
+Оренбург, Карачи, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/karachi/ 
+Оренбург, КДП, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kdp/ 
+Оренбург, Кинотеатр Космос, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kinoteatr_kosmos/ 
+Оренбург, Кинотеатр Сокол, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kinoteatr_sokol/ 
+Оренбург, Кирпичный завод, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kirpichnyy_zavod/ 
+Оренбург, Кирпичный завод №1, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kirpichnyy_zavod_1/ 
+Оренбург, Кладбищенский комплекс, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kladbischenskiy_kompleks/ 
+Оренбург, Клиффорд, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/klifford/ 
+Оренбург, Кожобъединение Урал, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kozhobedinenie_ural/ 
+Оренбург, Кольцевая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kolcevaya_ulica/ 
+Оренбург, Комсомольская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/komsomolskaya_ulica/ 
+Оренбург, Красный Маяк, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/krasnyy_mayak/ 
+Оренбург, Кубанская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kubanskaya_ulica/ 
+Оренбург, Кузнечная, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kuznechnaya/ 
+Оренбург, Культурная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kulturnaya_ulica/ 
+Оренбург, Курганская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kurganskaya_ulica/ 
+Оренбург, Кушкуль-2, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/kushkul-2/ 
+Оренбург, Ласточкино гнездо, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/lastochkino_gnezdo/ 
+Оренбург, Ленинградская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/leningradskaya_ulica/ 
+Оренбург, Лесничество, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/lesnichestvo/ 
+Оренбург, Ликос, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/likos/ 
+Оренбург, Липовая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/lipovaya_ulica/ 
+Оренбург, Литейная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/liteynaya_ulica/ 
+Оренбург, Лицей № 4, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/licey_4/ 
+Оренбург, Локомотивное депо, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/lokomotivnoe_depo/ 
+Оренбург, Луговая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/lugovaya_ulica/ 
+Оренбург, Луначарского, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/lunacharskogo/ 
+Оренбург, Львовская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/lvovskaya_ulica/ 
+Оренбург, Магазин, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin/ 
+Оренбург, Магазин Визит, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_vizit/ 
+Оренбург, Магазин Золотая осень, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_zolotaya_osen/ 
+Оренбург, Магазин Комета, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_kometa/ 
+Оренбург, Магазин Орбита, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_orbita/ 
+Оренбург, Магазин Русь, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_rus/ 
+Оренбург, Магазин Сакмара, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_sakmara/ 
+Оренбург, Магазин Салют, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_salyut/ 
+Оренбург, Магазин Соседдушка, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_soseddushka/ 
+Оренбург, Магазин Спутник, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_sputnik/ 
+Оренбург, Магазин Старт, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_start/ 
+Оренбург, Магазин Уют, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magazin_uyut/ 
+Оренбург, Магнит, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/magnit/ 
+Оренбург, Макаровой-Мутновой, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/makarovoy-mutnovoy/ 
+Оренбург, Маяк, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mayak/ 
+Оренбург, Мебельная фабрика, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mebelnaya_fabrika/ 
+Оренбург, Меновой Двор, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/menovoy_dvor/ 
+Оренбург, Мехзавод, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mehzavod/ 
+Оренбург, Мехколонна, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mehkolonna/ 
+Оренбург, МЖК, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mzhk/ 
+Оренбург, Микрорайон Победа, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mikrorayon_pobeda/ 
+Оренбург, Микрорайон Солнечный, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mikrorayon_solnechnyy/ 
+Оренбург, Микрорайонная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mikrorayonnaya_ulica/ 
+Оренбург, Микрохирургия глаза, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mikrohirurgiya_glaza/ 
+Оренбург, Миланская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/milanskaya_ulica/ 
+Оренбург, Мир кровли, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mir_krovli/ 
+Оренбург, Молодёжная, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/molodezhnaya/ 
+Оренбург, Мототехника, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/mototehnika/ 
+Оренбург, Музыкальная школа, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/muzykalnaya_shkola/ 
+Оренбург, Нагорная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/nagornaya_ulica/ 
+Оренбург, Национальная деревня, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/nacionalnaya_derevnya/ 
+Оренбург, Невельская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/nevelskaya_ulica/ 
+Оренбург, Нефтемаслозавод ОНМЗ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/neftemaslozavod_onmz/ 
+Оренбург, Нижнесакмарский, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/nizhnesakmarskiy/ 
+Оренбург, Нижняя Павловка, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/nizhnyaya_pavlovka/ 
+Оренбург, Никольское, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/nikolskoe/ 
+Оренбург, Новая, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/novaya/ 
+Оренбург, Новая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/novaya_ulica/ 
+Оренбург, Ноябрьская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/noyabrskaya_ulica/ 
+Оренбург, Областная больница, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/oblastnaya_bolnica/ 
+Оренбург, Общежитие, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/obschezhitie/ 
+Оренбург, ОГПС, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ogps/ 
+Оренбург, Одесская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/odesskaya_ulica/ 
+Оренбург, Октябрьская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/oktyabrskaya_ulica/ 
+Оренбург, Оренбургоптторг, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/orenburgopttorg/ 
+Оренбург, Оренбургский государственный университет, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/orenburgskiy_gosudarstvennyy_universitet/ 
+Оренбург, Оренбургского Казачества, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/orenburgskogo_kazachestva/ 
+Оренбург, Орская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/orskaya_ulica/ 
+Оренбург, ОУБР, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/oubr/ 
+Оренбург, Парк имени 50-летия СССР, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/park_imeni_50-letiya_sssr/ 
+Оренбург, Парк имени Гуськова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/park_imeni_guskova/ 
+Оренбург, Парк имени Перовского, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/park_imeni_perovskogo/ 
+Оренбург, Парк Тополя, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/park_topolya/ 
+Оренбург, Парковская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/parkovskaya_ulica/ 
+Оренбург, Переезд, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/pereezd/ 
+Оренбург, Площадь Мира, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ploschad_mira/ 
+Оренбург, ПО Стрела, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/po_strela/ 
+Оренбург, По требованию, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/po_trebovaniyu/ 
+Оренбург, Поворот, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/povorot/ 
+Оренбург, Поворот 2, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/povorot_2/ 
+Оренбург, Поворот на Городище, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/povorot_na_gorodische/ 
+Оренбург, Поворот на Краснохолм, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/povorot_na_krasnoholm/ 
+Оренбург, Полигонная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poligonnaya_ulica/ 
+Оренбург, Поликлиника, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poliklinika/ 
+Оренбург, Полтавская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poltavskaya_ulica/ 
+Оренбург, Посёлок Бёрды, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_berdy/ 
+Оренбург, Посёлок Весенний, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_vesenniy/ 
+Оренбург, Посёлок Карачи, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_karachi/ 
+Оренбург, Посёлок Куйбышева, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_kuybysheva/ 
+Оренбург, Посёлок Кушкуль-1, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_kushkul-1/ 
+Оренбург, Посёлок Кушкуль-3, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_kushkul-3/ 
+Оренбург, Посёлок Подмаячный, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_podmayachnyy/ 
+Оренбург, Посёлок Ростоши, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_rostoshi/ 
+Оренбург, Посёлок Солнечный, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_solnechnyy/ 
+Оренбург, Посёлок Старые Ростоши, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/poselok_starye_rostoshi/ 
+Оренбург, Пост ГАИ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/post_gai/ 
+Оренбург, Почта, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/pochta/ 
+Оренбург, Почтовая, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/pochtovaya/ 
+Оренбург, Пристанционный, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/pristancionnyy/ 
+Оренбург, Проезд Автоматики, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/proezd_avtomatiki/ 
+Оренбург, Проезд Знаменский, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/proezd_znamenskiy/ 
+Оренбург, Пролетарская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/proletarskaya_ulica/ 
+Оренбург, Проспект Гагарина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/prospekt_gagarina/ 
+Оренбург, Проспект Дзержинского, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/prospekt_dzerzhinskogo/ 
+Оренбург, Профилакторий Озон, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/profilaktoriy_ozon/ 
+Оренбург, Пруды, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/prudy/ 
+Оренбург, ПТУ № 37, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ptu_37/ 
+Оренбург, Пугачи, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/pugachi/ 
+Оренбург, Пугачи-3, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/pugachi-3/ 
+Оренбург, Пушкинская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/pushkinskaya_ulica/ 
+Оренбург, Рабочий переезд, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/rabochiy_pereezd/ 
+Оренбург, Радуга, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/raduga/ 
+Оренбург, Раздольная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/razdolnaya_ulica/ 
+Оренбург, Река Сакмара, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/reka_sakmara/ 
+Оренбург, Римская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/rimskaya_ulica/ 
+Оренбург, Рыбаковская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/rybakovskaya_ulica/ 
+Оренбург, Рынок, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/rynok/ 
+Оренбург, Рынок Локомотив, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/rynok_lokomotiv/ 
+Оренбург, Рынок Петровский, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/rynok_petrovskiy/ 
+Оренбург, Рынок Южный, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/rynok_yuzhnyy/ 
+Оренбург, Сад Фрунзе, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sad_frunze/ 
+Оренбург, Садовая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sadovaya_ulica/ 
+Оренбург, Сады-1, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sady-1/ 
+Оренбург, Сады-2, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sady-2/ 
+Оренбург, Самолётная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/samoletnaya_ulica/ 
+Оренбург, Самородово, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/samorodovo/ 
+Оренбург, Северная, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/severnaya/ 
+Оренбург, Северная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/severnaya_ulica/ 
+Оренбург, Северный проезд, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/severnyy_proezd/ 
+Оренбург, Село имени 9 Января, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/selo_imeni_9_yanvarya/ 
+Оренбург, Славянский базар, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/slavyanskiy_bazar/ 
+Оренбург, СМП, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/smp/ 
+Оренбург, СНТ Южный Урал, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/snt_yuzhnyy_ural/ 
+Оренбург, Советская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sovetskaya_ulica/ 
+Оренбург, Совхоз Дружба, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sovhoz_druzhba/ 
+Оренбург, Совхозная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sovhoznaya_ulica/ 
+Оренбург, Спартаковская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/spartakovskaya_ulica/ 
+Оренбург, Спорткомплекс, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/sportkompleks/ 
+Оренбург, Станкозавод, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/stankozavod/ 
+Оренбург, Старое кольцо, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/staroe_kolco/ 
+Оренбург, Степной переулок, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/stepnoy_pereulok/ 
+Оренбург, Стройгородок, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/stroygorodok/ 
+Оренбург, Студенческая, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/studencheskaya/ 
+Оренбург, Таксопарк, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/taksopark/ 
+Оренбург, ТД Барди, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/td_bardi/ 
+Оренбург, ТД Евростиль, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/td_evrostil/ 
+Оренбург, Театр музкомедии, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/teatr_muzkomedii/ 
+Оренбург, Театр музыкальной комедии, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/teatr_muzykalnoy_komedii/ 
+Оренбург, Театр Пьеро, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/teatr_pero/ 
+Оренбург, Театральная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/teatralnaya_ulica/ 
+Оренбург, Телецентр, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/telecentr/ 
+Оренбург, Тепличная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/teplichnaya_ulica/ 
+Оренбург, Теплосеть, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/teploset/ 
+Оренбург, Тихая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tihaya_ulica/ 
+Оренбург, ТК КИТ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tk_kit/ 
+Оренбург, ТК Максимум, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tk_maksimum/ 
+Оренбург, ТК Медовый, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tk_medovyy/ 
+Оренбург, ТК Оренбург, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tk_orenburg/ 
+Оренбург, ТК Форштадт, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tk_forshtadt/ 
+Оренбург, Торговая улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/torgovaya_ulica/ 
+Оренбург, Торговый центр Метро, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/torgovyy_centr_metro/ 
+Оренбург, Трансгаз, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/transgaz/ 
+Оренбург, Трест, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/trest/ 
+Оренбург, ТРЗ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/trz/ 
+Оренбург, Троицкий, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/troickiy/ 
+Оренбург, Троллейбусное депо № 2, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/trolleybusnoe_depo_2/ 
+Оренбург, ТРЦ Север, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/trc_sever/ 
+Оренбург, ТС Центр, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ts_centr/ 
+Оренбург, ТСЖ Звёздный, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tszh_zvezdnyy/ 
+Оренбург, Тубдиспансер, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tubdispanser/ 
+Оренбург, Туркестанская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/turkestanskaya_ulica/ 
+Оренбург, ТЦ Армада, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tc_armada/ 
+Оренбург, ТЦ Дружба, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tc_druzhba/ 
+Оренбург, ТЦ Леруа Мерлен, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tc_lerua_merlen/ 
+Оренбург, ТЭЦ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/tec/ 
+Оренбург, Украинская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ukrainskaya_ulica/ 
+Оренбург, Улица 60-летия Октября, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_60-letiya_oktyabrya/ 
+Оренбург, Улица 8 Марта, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_8_marta/ 
+Оренбург, Улица 8-го Марта, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_8-go_marta/ 
+Оренбург, Улица Берёзовая Ростошь, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_berezovaya_rostosh/ 
+Оренбург, Улица Богдана Хмельницкого - Центральный рынок, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_bogdana_hmelnickogo_-_centralnyy_rynok/ 
+Оренбург, Улица Братьев Башиловых, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_bratev_bashilovyh/ 
+Оренбург, Улица Бурзянцева, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_burzyanceva/ 
+Оренбург, Улица Бурчак-Абрамовича, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_burchak-abramovicha/ 
+Оренбург, Улица Володарского, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_volodarskogo/ 
+Оренбург, Улица Гаранькина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_garankina/ 
+Оренбург, Улица Джангильдина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_dzhangildina/ 
+Оренбург, Улица Дружбы, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_druzhby/ 
+Оренбург, Улица Желябова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_zhelyabova/ 
+Оренбург, Улица Калинина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_kalinina/ 
+Оренбург, Улица Караваева Роща, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_karavaeva_roscha/ 
+Оренбург, Улица Кирова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_kirova/ 
+Оренбург, Улица Кичигина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_kichigina/ 
+Оренбург, Улица Коминтерна, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_kominterna/ 
+Оренбург, Улица Лермонтова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_lermontova/ 
+Оренбург, Улица Лукиана Попова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_lukiana_popova/ 
+Оренбург, Улица Макаровой-Мутновой, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_makarovoy-mutnovoy/ 
+Оренбург, Улица Максима Горького, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_maksima_gorkogo/ 
+Оренбург, Улица Маршала Жукова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_marshala_zhukova/ 
+Оренбург, Улица Мира, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_mira/ 
+Оренбург, Улица Михаила Фадеева, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_mihaila_fadeeva/ 
+Оренбург, Улица Мичурина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_michurina/ 
+Оренбург, Улица Монтажников, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_montazhnikov/ 
+Оренбург, Улица Мусы Джалиля, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_musy_dzhalilya/ 
+Оренбург, Улица Нахимова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_nahimova/ 
+Оренбург, Улица Нефтяников, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_neftyanikov/ 
+Оренбург, Улица Ногина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_nogina/ 
+Оренбург, Улица Попова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_popova/ 
+Оренбург, Улица Постникова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_postnikova/ 
+Оренбург, Улица Родимцева, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_rodimceva/ 
+Оренбург, Улица Розенберга, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_rozenberga/ 
+Оренбург, Улица Розы Люксембург, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_rozy_lyuksemburg/ 
+Оренбург, Улица Сергея Лазо, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_sergeya_lazo/ 
+Оренбург, Улица Славы, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_slavy/ 
+Оренбург, Улица Степана Разина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_stepana_razina/ 
+Оренбург, Улица Сухарева, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_suhareva/ 
+Оренбург, Улица Терешковой, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_tereshkovoy/ 
+Оренбург, Улица Ткачёва, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_tkacheva/ 
+Оренбург, Улица Ткачева, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_tkacheva/ 
+Оренбург, Улица Ульянова, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_ulyanova/ 
+Оренбург, Улица Фадеева, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_fadeeva/ 
+Оренбург, Улица Фрунзе, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_frunze/ 
+Оренбург, Улица Челюскинцев, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_chelyuskincev/ 
+Оренбург, Улица Шевченко, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_shevchenko/ 
+Оренбург, Улица Щетинина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_schetinina/ 
+Оренбург, Улица Юных Ленинцев, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_yunyh_lenincev/ 
+Оренбург, Улица Юркина, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/ulica_yurkina/ 
+Оренбург, Учебный комбинат, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/uchebnyy_kombinat/ 
+Оренбург, Учкомбинат, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/uchkombinat/ 
+Оренбург, Фабрика пуховых платков, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/fabrika_puhovyh_platkov/ 
+Оренбург, Факел, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/fakel/ 
+Оренбург, Хабаровская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/habarovskaya_ulica/ 
+Оренбург, Харьковская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/harkovskaya_ulica/ 
+Оренбург, Хлебная, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/hlebnaya/ 
+Оренбург, Хлебный городок, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/hlebnyy_gorodok/ 
+Оренбург, Центральный рынок, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/centralnyy_rynok/ 
+Оренбург, ЦРБ, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/crb/ 
+Оренбург, Часовня, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/chasovnya/ 
+Оренбург, Чистопольская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/chistopolskaya_ulica/ 
+Оренбург, Школа, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/shkola/ 
+Оренбург, Школьная улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/shkolnaya_ulica/ 
+Оренбург, Южный Урал, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/yuzhnyy_ural/ 
+Оренбург, Ялтинская улица, http://orenburg.ginfo.ruhttp://orenburg.ginfo.ru/routes/stations/yaltinskaya_ulica/ 

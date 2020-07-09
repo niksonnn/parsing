@@ -1,0 +1,100 @@
+1,Bitcoin,168323671315,9138.49,https://coinmarketcap.com/currencies/bitcoin/,BTC
+2,Ethereum,25183543790,225.72,https://coinmarketcap.com/currencies/ethereum/,ETH
+3,Tether,9187758573,0.999975,https://coinmarketcap.com/currencies/tether/,USDT
+4,XRP,7783419354,0.175865,https://coinmarketcap.com/currencies/xrp/,XRP
+5,Bitcoin Cash,4088472395,221.61,https://coinmarketcap.com/currencies/bitcoin-cash/,BCH
+6,Bitcoin SV,2911452441,157.82,https://coinmarketcap.com/currencies/bitcoin-sv/,BSV
+7,Litecoin,2683734643,41.33,https://coinmarketcap.com/currencies/litecoin/,LTC
+8,Binance Coin,2396625074,15.41,https://coinmarketcap.com/currencies/binance-coin/,BNB
+9,Crypto.com Coin,2211543624,0.125107,https://coinmarketcap.com/currencies/crypto-com-coin/,CRO
+10,EOS,2194620156,2.35,https://coinmarketcap.com/currencies/eos/,EOS
+11,Cardano,2162546522,0.083409,https://coinmarketcap.com/currencies/cardano/,ADA
+12,Tezos,1741600983,2.37,https://coinmarketcap.com/currencies/tezos/,XTZ
+13,Chainlink,1607974439,4.59,https://coinmarketcap.com/currencies/chainlink/,LINK
+14,Stellar,1363470642,0.066941,https://coinmarketcap.com/currencies/stellar/,XLM
+15,UNUS SED LEO,1259842035,1.26,https://coinmarketcap.com/currencies/unus-sed-leo/,LEO
+16,Monero,1124235621,63.82,https://coinmarketcap.com/currencies/monero/,XMR
+17,TRON,1093860385,0.016404,https://coinmarketcap.com/currencies/tron/,TRX
+18,USD Coin,927251488,1.00,https://coinmarketcap.com/currencies/usd-coin/,USDC
+19,Huobi Token,901053487,4.14,https://coinmarketcap.com/currencies/huobi-token/,HT
+20,Neo,708824980,10.05,https://coinmarketcap.com/currencies/neo/,NEO
+21,Ethereum Classic,666021345,5.73,https://coinmarketcap.com/currencies/ethereum-classic/,ETC
+22,Dash,654078346,68.29,https://coinmarketcap.com/currencies/dash/,DASH
+23,IOTA,610257745,0.219554,https://coinmarketcap.com/currencies/iota/,MIOTA
+24,Compound,554882017,216.64,https://coinmarketcap.com/currencies/compound/,COMP
+25,Cosmos,494770418,2.59,https://coinmarketcap.com/currencies/cosmos/,ATOM
+26,Zcash,491381004,51.77,https://coinmarketcap.com/currencies/zcash/,ZEC
+27,VeChain,487537455,0.008792,https://coinmarketcap.com/currencies/vechain/,VET
+28,Maker,454955591,452.43,https://coinmarketcap.com/currencies/maker/,MKR
+29,HedgeTrade,432327739,1.50,https://coinmarketcap.com/currencies/hedgetrade/,HEDG
+30,Ontology,402712052,0.577992,https://coinmarketcap.com/currencies/ontology/,ONT
+31,NEM,385788357,0.042865,https://coinmarketcap.com/currencies/nem/,XEM
+32,Basic Attention Token,372383387,0.252710,https://coinmarketcap.com/currencies/basic-attention-token/,BAT
+33,OKB,303598647,5.06,https://coinmarketcap.com/currencies/okb/,OKB
+34,Dogecoin,290474675,0.002320,https://coinmarketcap.com/currencies/dogecoin/,DOGE
+35,FTX Token,271972902,2.88,https://coinmarketcap.com/currencies/ftx-token/,FTT
+36,DigiByte,271890788,0.020448,https://coinmarketcap.com/currencies/digibyte/,DGB
+37,Paxos Standard,244965192,1.00,https://coinmarketcap.com/currencies/paxos-standard/,PAX
+38,0x,233840309,0.335102,https://coinmarketcap.com/currencies/0x/,ZRX
+39,Kyber Network,215170329,1.20,https://coinmarketcap.com/currencies/kyber-network/,KNC
+40,The Midas Touch Gold,214025692,0.056026,https://coinmarketcap.com/currencies/the-midas-touch-gold/,TMTG
+41,OMG Network,204855260,1.46,https://coinmarketcap.com/currencies/omg/,OMG
+42,THETA,194025530,0.222889,https://coinmarketcap.com/currencies/theta/,THETA
+43,Augur,182533894,16.59,https://coinmarketcap.com/currencies/augur/,REP
+44,Zilliqa,181185576,0.017691,https://coinmarketcap.com/currencies/zilliqa/,ZIL
+45,Hedera Hashgraph,179723866,0.038366,https://coinmarketcap.com/currencies/hedera-hashgraph/,HBAR
+46,Bitcoin Gold,176952330,10.10,https://coinmarketcap.com/currencies/bitcoin-gold/,BTG
+47,Aave,171538865,0.131953,https://coinmarketcap.com/currencies/aave/,LEND
+48,Synthetix Network Token,166127530,1.91,https://coinmarketcap.com/currencies/synthetix-network-token/,SNX
+49,Binance USD,165793604,0.999988,https://coinmarketcap.com/currencies/binance-usd/,BUSD
+50,Decred,164275709,14.06,https://coinmarketcap.com/currencies/decred/,DCR
+51,Hyperion,163709260,0.516815,https://coinmarketcap.com/currencies/hyperion/,HYN
+52,Algorand,160500111,0.207951,https://coinmarketcap.com/currencies/algorand/,ALGO
+53,ICON,159867009,0.291921,https://coinmarketcap.com/currencies/icon/,ICX
+54,Qtum,157900434,1.63,https://coinmarketcap.com/currencies/qtum/,QTUM
+55,TrueUSD,144289630,0.999800,https://coinmarketcap.com/currencies/trueusd/,TUSD
+56,Enjin Coin,142175807,0.173133,https://coinmarketcap.com/currencies/enjin-coin/,ENJ
+57,Lisk,141459881,1.14,https://coinmarketcap.com/currencies/lisk/,LSK
+58,Bitcoin Diamond,136710224,0.733059,https://coinmarketcap.com/currencies/bitcoin-diamond/,BCD
+59,Dai,127492590,1.00,https://coinmarketcap.com/currencies/multi-collateral-dai/,DAI
+60,Ren,127136916,0.146839,https://coinmarketcap.com/currencies/ren/,REN
+61,Nano,125599885,0.942600,https://coinmarketcap.com/currencies/nano/,NANO
+62,Ravencoin,123090823,0.018951,https://coinmarketcap.com/currencies/ravencoin/,RVN
+63,Siacoin,120675295,0.002886,https://coinmarketcap.com/currencies/siacoin/,SC
+64,HUSD,118426874,0.999953,https://coinmarketcap.com/currencies/husd/,HUSD
+65,Nexo,115435792,0.206135,https://coinmarketcap.com/currencies/nexo/,NEXO
+66,Waves,115315713,1.13,https://coinmarketcap.com/currencies/waves/,WAVES
+67,Verge,111829989,0.006855,https://coinmarketcap.com/currencies/verge/,XVG
+68,Celsius,111031143,0.464831,https://coinmarketcap.com/currencies/celsius/,CEL
+69,MonaCoin,110735557,1.68,https://coinmarketcap.com/currencies/monacoin/,MONA
+70,Quant,104951147,8.69,https://coinmarketcap.com/currencies/quant/,QNT
+71,ZB Token,100231905,0.216349,https://coinmarketcap.com/currencies/zb-token/,ZB
+72,DxChain Token,98322918,0.001966,https://coinmarketcap.com/currencies/dxchain-token/,DX
+73,Holo,88961001,0.000538,https://coinmarketcap.com/currencies/holo/,HOT
+74,IOST,82940663,0.005526,https://coinmarketcap.com/currencies/iostoken/,IOST
+75,Divi,82668957,0.047020,https://coinmarketcap.com/currencies/divi/,DIVI
+76,SwissBorg,81198668,0.113557,https://coinmarketcap.com/currencies/swissborg/,CHSB
+77,Terra,80455503,0.209082,https://coinmarketcap.com/currencies/terra-luna/,LUNA
+78,Loopring,79511907,0.074314,https://coinmarketcap.com/currencies/loopring/,LRC
+79,Flexacoin,79246947,0.002833,https://coinmarketcap.com/currencies/flexacoin/,FXC
+80,Nervos Network,78368486,0.004397,https://coinmarketcap.com/currencies/nervos-network/,CKB
+81,Status,77985998,0.022471,https://coinmarketcap.com/currencies/status/,SNT
+82,Steem,75249409,0.202614,https://coinmarketcap.com/currencies/steem/,STEEM
+83,Komodo,74923311,0.621631,https://coinmarketcap.com/currencies/komodo/,KMD
+84,Bancor,72307452,1.05,https://coinmarketcap.com/currencies/bancor/,BNT
+85,Bytom,71414286,0.064961,https://coinmarketcap.com/currencies/bytom/,BTM
+86,KuCoin Shares,70318903,0.865460,https://coinmarketcap.com/currencies/kucoin-shares/,KCS
+87,MCO,68528484,4.34,https://coinmarketcap.com/currencies/crypto-com/,MCO
+88,Matic Network,67025241,0.019216,https://coinmarketcap.com/currencies/matic-network/,MATIC
+89,Hive,65096665,0.216618,https://coinmarketcap.com/currencies/hive-blockchain/,HIVE
+90,Electroneum,64313960,0.006336,https://coinmarketcap.com/currencies/electroneum/,ETN
+91,Horizen,64096034,6.82,https://coinmarketcap.com/currencies/horizen/,ZEN
+92,BitShares,63446192,0.023066,https://coinmarketcap.com/currencies/bitshares/,BTS
+93,Blockstack,62844968,0.130804,https://coinmarketcap.com/currencies/blockstack/,STX
+94,BitTorrent,62630416,0.000295,https://coinmarketcap.com/currencies/bittorrent/,BTT
+95,WAX,61971547,0.051076,https://coinmarketcap.com/currencies/wax/,WAXP
+96,Energi,60933957,2.00,https://coinmarketcap.com/currencies/energi/,NRG
+97,Elrond,59059408,0.006092,https://coinmarketcap.com/currencies/elrond/,ERD
+98,Numeraire,58554740,21.77,https://coinmarketcap.com/currencies/numeraire/,NMR
+99,Decentraland,54479826,0.038584,https://coinmarketcap.com/currencies/decentraland/,MANA
+100,ABBC Coin,53990050,0.097206,https://coinmarketcap.com/currencies/abbc-coin/,ABBC
